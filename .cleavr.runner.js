@@ -1,0 +1,1 @@
+/home/cleavr/m1kzhnnmxojsez5s10465.cleavr.xyz/current/node_modules/.bin/directus

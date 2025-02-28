@@ -1,0 +1,13 @@
+{
+  "name": "m1kzhnnmxojsez5s10465.cleavr.xyz",
+  "version": "1.0.0",
+  "description": "This is a sample Directus app initialized by Cleavr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "directus": "~10.0.0"
+  }
+}
